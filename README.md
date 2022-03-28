@@ -20,3 +20,10 @@ The project, I created with the aim of managing streets activities found in ward
 
 ## See project snapshot
 
+![Screenshot 2022-03-15 at 12-52-21 Hifadhi data ya mtaa Ingia kwenye akaunti yako](https://user-images.githubusercontent.com/26626005/160368860-5786fad6-7936-4347-89e4-e353ebd1aa04.png)
+![Screenshot 2022-03-15 at 12-52-59 Hifadhi data ya mtaa Karibu nyumbani jeremiax](https://user-images.githubusercontent.com/26626005/160368901-d651f7df-f5f8-4e10-90ac-d6b0b806daa5.png)
+![Screenshot 2022-03-15 at 12-54-46 Hifadhi data ya mtaa Karibu nyumbani jeremiax](https://user-images.githubusercontent.com/26626005/160368923-c33fc581-4d38-45aa-970f-aef47a062b70.png)
+![Screenshot 2022-03-15 at 12-54-13 Hifadhi data ya mtaa Kurasa ya maombi](https://user-images.githubusercontent.com/26626005/160368943-93947a30-bbdf-44f3-8cda-190bcc08ee3b.png)
+![Screenshot 2022-03-15 at 12-54-25 Hifadhi data ya mtaa Kurasa ya matukio](https://user-images.githubusercontent.com/26626005/160368954-896a1db4-9480-4335-8010-667f9784fefa.png)
+![Screenshot 2022-03-15 at 12-53-33 Hifadhi data ya mtaa Kurasa ya wakazi](https://user-images.githubusercontent.com/26626005/160368960-781689dd-5e5f-4ec2-a1ef-a3e8a4e87d72.png)
+![Screenshot 2022-03-15 at 12-53-46 Hifadhi data ya mtaa Kurasa ya viongozi](https://user-images.githubusercontent.com/26626005/160368964-96908ff0-40fd-4ed0-a208-9291f721f94b.png)
