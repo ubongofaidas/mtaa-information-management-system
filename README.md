@@ -1,5 +1,5 @@
 # Mtaa-information-management-system
-The project, I created with the aim of managing streets activities found in ward within the district in Tanzania, Although I did not put the source cde here, the source code are in a private directory. So request the link for preview via +255795669830 or jeremiamathayom@gmail.com
+The project, created with the aim of managing streets activities found in ward within the district in Tanzania, the source code are in a private directory. So request the link for preview
 
 ## Project feature
 * Login, reset password, session based logout(when user idle), php mailer on reset password receive code, login with three attempt(block for 30min)
