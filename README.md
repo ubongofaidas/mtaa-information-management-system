@@ -32,6 +32,6 @@ The project, created with the aim of managing streets activities found in ward w
 ![image](https://user-images.githubusercontent.com/26626005/161033266-efde9686-2dcb-4d58-9dfb-5959f1d4b006.png)
 ![image](https://user-images.githubusercontent.com/26626005/161033383-ddbfc150-3412-4da9-8a90-95cc28a60f37.png)
 
-
+![image](https://user-images.githubusercontent.com/26626005/161033580-4cf29d63-9e66-4db7-8c2e-4540ca1dec4b.png)
 
 
