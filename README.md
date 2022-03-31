@@ -27,3 +27,11 @@ The project, created with the aim of managing streets activities found in ward w
 ![Screenshot 2022-03-15 at 12-54-25 Hifadhi data ya mtaa Kurasa ya matukio](https://user-images.githubusercontent.com/26626005/160368954-896a1db4-9480-4335-8010-667f9784fefa.png)
 ![Screenshot 2022-03-15 at 12-53-33 Hifadhi data ya mtaa Kurasa ya wakazi](https://user-images.githubusercontent.com/26626005/160368960-781689dd-5e5f-4ec2-a1ef-a3e8a4e87d72.png)
 ![Screenshot 2022-03-15 at 12-53-46 Hifadhi data ya mtaa Kurasa ya viongozi](https://user-images.githubusercontent.com/26626005/160368964-96908ff0-40fd-4ed0-a208-9291f721f94b.png)
+![image](https://user-images.githubusercontent.com/26626005/161032989-e4a7dca6-65e7-4d5c-92a2-3f737c09c1e0.png)
+![image](https://user-images.githubusercontent.com/26626005/161033101-cf1badea-1c22-4885-a7eb-63552ba50753.png)
+![image](https://user-images.githubusercontent.com/26626005/161033266-efde9686-2dcb-4d58-9dfb-5959f1d4b006.png)
+![image](https://user-images.githubusercontent.com/26626005/161033383-ddbfc150-3412-4da9-8a90-95cc28a60f37.png)
+
+
+
+
